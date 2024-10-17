@@ -10,9 +10,8 @@ import Sidebar from "./components/Sidebar";
 
 const App = () => {
   const [isOpen, setIsOpen] = useState(true);
-  const [darkMode, setDarkMode] = useState(false); // Track current theme mode
-
-  // Define both Dark and Light Themes
+  const [darkMode, setDarkMode] = useState(false); 
+  
   const darkTheme = createTheme({
     palette: {
       mode: "dark",
