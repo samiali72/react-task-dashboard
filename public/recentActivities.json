@@ -1,0 +1,12 @@
+[
+  { "name": "Sami Ali", "activity": "Updated Profile", "date": "2024-10-16" },
+  { "name": "Danish Khan", "activity": "Signed Up", "date": "2024-02-14" },
+  { "name": "Fatima Ali", "activity": "Logged In", "date": "2023-12-11" },
+  { "name": "Ali Ayaz", "activity": "Purchased", "date": "2022-05-21" },
+  { "name": "Anas Ahmed", "activity": "Signed Up", "date": "2024-09-29" },
+  { "name": "Pasha Shaikh", "activity": "Logged In", "date": "2024-10-12" },
+  { "name": "Hamza Abidi", "activity": "Signed Up", "date": "2023-10-11" },
+  { "name": "Jamal Nasir", "activity": "Made a Purchase", "date": "2024-05-10"},
+  { "name": "Hafsa Ahmad", "activity": "Logged In", "date": "2024-07-18" },
+  { "name": "Ibrahim Ali", "activity": "Reset Password", "date": "2024-01-08" }
+]
