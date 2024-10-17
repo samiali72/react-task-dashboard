@@ -15,7 +15,7 @@ const Dashboard = () => {
     <Box sx={{ pt: 20 }}>
       <Typography variant="h3">Dashboard Overview</Typography>
       <br />
-      {/* Grid for stats and pie chart */}
+      
       <Grid container spacing={3}>
         <Grid item xs={12} sm={6} md={3}>
           <StatCard icon={<PeopleIcon />} label="Total Users" value="512" />
@@ -38,17 +38,17 @@ const Dashboard = () => {
           />
         </Grid>
 
-         {/* New card with PieChart divided into two columns */}
+         {/* Pie chart */}
          <Grid item xs={12} sm={6} md={6}>
           <Card>
             <CardContent>
               <Grid container spacing={2}>
-                {/* First column: Heading */}
+                
                 <Grid item xs={12} sm={4}>
                   <Typography variant="h6">User Distribution</Typography>
                 </Grid>
 
-                {/* Second column: PieChart */}
+               
                 <Grid item xs={12} sm={8}>
                   <Box
                     sx={{
