@@ -19,8 +19,8 @@ const Profile = () => {
 
       <Box sx={{
         display: 'flex',
-        justifyContent: 'center', // Center content horizontally
-        mt: 2, // Add some top margin
+        justifyContent: 'center', 
+        mt: 2, 
         }}>
         <Grid container spacing={3} sx={{ width: '100%', maxWidth: '800px'}}>
           <Grid item xs={12} sm={4}>
