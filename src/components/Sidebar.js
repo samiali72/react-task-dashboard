@@ -78,7 +78,7 @@ const Sidebar = ( {darkMode} ) => {
           </List>
 
           <Divider sx={{ mt: 2 }} />
-          {/* Profile Avatar and Name Section */}
+                
           <Box
             sx={{
               display: "flex",
